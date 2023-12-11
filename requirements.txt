@@ -1,0 +1,10 @@
+python-dotenv
+jupyterlab==3.4.7
+dnspython==2.2.1
+pymongo[srv]
+pandas==1.3.5
+PyYAML==6.0
+numpy
+scikit-learn
+apache-airflow==2.5.0
+-e .
