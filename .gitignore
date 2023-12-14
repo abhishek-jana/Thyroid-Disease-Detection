@@ -1,3 +1,7 @@
+.kaggle
+kaggle.json
+thyroid_detection_artifact
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
